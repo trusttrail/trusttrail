@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trusttrail
-- 👀 I’m interested in building a seamless verified platform for honest reviews rewarding users.
-- 🌱 I’m currently learning on how to educate and build a community space of best review practices.
+- 👀 I’m interested in building a seamless verified platform for honest reviews rewarding users. Beta here https://trusttrail.app/
+- 🌱 I’m currently learning on how to educate and build a community space of best review practices. 
 - 💞️ I’m looking to collaborate on cross chain integrations, NFT partnerships, community building.
 - 📫 How to reach me, well the X socials are https://x.com/trusttrail69?s=21&t=H5-OSO1Ek4h1nCtKbqlDxw
 - 😄 Pronouns: We/Us
